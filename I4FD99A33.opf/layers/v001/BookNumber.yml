@@ -1,10 +1,10 @@
-id: c55eeaef03314af08a911754fefd0eab
+id: 96118a9f46d04f5e81b6f77f9c20a311
 annotation_type: BookNumber
 revision: '00001'
 annotations:
-  5a3393b22c1c4da2b9909169afc975aa:
+  495067816388454fbcf5a9f0d31c4f10:
     span:
       start: 55
       end: 70
 local_ids:
-  5a3393b22c1c4da2b9909169afc975aa: 200000
+  495067816388454fbcf5a9f0d31c4f10: 200000
