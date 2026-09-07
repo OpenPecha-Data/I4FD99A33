@@ -1,15 +1,85 @@
-id: 17d265e900174b7ab99677b4e51fff01
+id: b8ef4e22b7d3415da96de740707d66d0
 annotation_type: BookTitle
 revision: '00001'
 annotations:
-  6d8e10314dae498cbab210a28a961e23:
+  1589e3a41a93491c9fde73aa88105373:
     span:
       start: 0
       end: 53
-  8dc8608b8b194f4da62e2869d7ff9694:
+  e825668b4cb448108877dafa8e975551:
     span:
       start: 72
       end: 109
+  61d80e9d12c44efca1eb8b8509394cf1:
+    span:
+      start: 8768
+      end: 8874
+  3d6fafe94b4f474ba19c9deb759d0ad3:
+    span:
+      start: 32914
+      end: 32971
+  aafe5e156c644187a6979f199cdcae76:
+    span:
+      start: 37212
+      end: 37283
+  f7f2eeba634e452b89deba18612fa7f1:
+    span:
+      start: 47794
+      end: 47834
+  41253871543348a1853d011c3269637c:
+    span:
+      start: 79218
+      end: 79258
+  5988728b4b2d484db1158971a96b56de:
+    span:
+      start: 99252
+      end: 99313
+  0917594e901f44f58c6c5a64678a3a46:
+    span:
+      start: 122098
+      end: 122134
+  37eb6e6b709144769fb6212e31e98dcc:
+    span:
+      start: 154774
+      end: 154822
+  c45cc17824cf48df8cd2d98f471b8544:
+    span:
+      start: 157165
+      end: 157255
+  0ddd62c5aaa34f4c8e09708f2d26ec39:
+    span:
+      start: 200133
+      end: 200185
+  04b732a3c41045518d2c0b55bed648b3:
+    span:
+      start: 202652
+      end: 202703
+  1ffc9838cd434f70bcc58745d827bad5:
+    span:
+      start: 207965
+      end: 208051
+  5d3a20fe1ffe45da932517196d5d1edb:
+    span:
+      start: 242294
+      end: 242341
+  37c32da2e49c478583d4a3470f817b05:
+    span:
+      start: 252308
+      end: 252362
 local_ids:
-  6d8e10314dae498cbab210a28a961e23: 200000
-  8dc8608b8b194f4da62e2869d7ff9694: 200001
+  1589e3a41a93491c9fde73aa88105373: 200000
+  e825668b4cb448108877dafa8e975551: 200001
+  61d80e9d12c44efca1eb8b8509394cf1: 200002
+  3d6fafe94b4f474ba19c9deb759d0ad3: 200003
+  aafe5e156c644187a6979f199cdcae76: 200004
+  f7f2eeba634e452b89deba18612fa7f1: 200005
+  41253871543348a1853d011c3269637c: 200006
+  5988728b4b2d484db1158971a96b56de: 200007
+  0917594e901f44f58c6c5a64678a3a46: 200008
+  37eb6e6b709144769fb6212e31e98dcc: 200009
+  c45cc17824cf48df8cd2d98f471b8544: 200010
+  0ddd62c5aaa34f4c8e09708f2d26ec39: 200011
+  04b732a3c41045518d2c0b55bed648b3: 200012
+  1ffc9838cd434f70bcc58745d827bad5: 200013
+  5d3a20fe1ffe45da932517196d5d1edb: 200014
+  37c32da2e49c478583d4a3470f817b05: 200015
